@@ -1,0 +1,199 @@
+body {
+    margin: 0;
+    background-color:rgba(27, 36, 74, 1);
+    
+}
+
+.container {
+display: flex;
+justify-content: space-around;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #EEEEEE;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;   
+}
+
+#btnhome1{   
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+padding:0px;
+width: 45px;
+height: 35px;
+left: 82px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+font-style: normal;
+
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#btnhome2{
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+padding:0px;
+width: 45px;
+height: 35px;
+left: 82px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+font-style: normal;
+
+  
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#btnhome3{
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+padding:0px;
+width: 45px;
+height: 35px;
+left: 82px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+font-style: normal;
+
+  
+  font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#btnguest1{
+font-style: normal;
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+font-weight: 400;
+padding:0px;
+letter-spacing: 0em;
+text-align: center;
+width: 45px;
+height: 35px;
+left: 72px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+  
+ font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#btnguest2{
+font-style: normal;
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+font-weight: 400;
+padding:0px;
+letter-spacing: 0em;
+text-align: center;
+width: 45px;
+height: 35px;
+left: 72px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+  
+ font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#btnguest3{
+font-style: normal;
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+font-weight: 400;
+padding:0px;
+letter-spacing: 0em;
+text-align: center;
+width: 45px;
+height: 35px;
+left: 72px;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+  
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#homeScore{
+margin-top:-40px;
+margin-bottom:0px;
+width: 145px;
+height: 120px;
+left: 337px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+text-align: center;
+color: #F94F6D;
+  
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+
+#guestScore{
+    margin-bottom:0px;
+margin-top:-40px;
+width: 155px;
+height: 120px;
+left: 337px;
+background: #080001;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL,Regular';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+text-align: center;
+color: #F94F6D;
+  
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+}
+#restartgame{
+display: flex;
+ position:fixed;
+font-style: normal;
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 0em;
+height: 35px;
+  text-align: center;
+border-color:rgba(154, 171, 216, 1);
+color: rgba(154, 171, 216, 1);
+background-color:rgba(27, 36, 74, 1);
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Wallpoet', cursive;
+margin-top: 290px;
+margin-left:-500px;
+text-align: center;
+justify-content: space-around;
+}

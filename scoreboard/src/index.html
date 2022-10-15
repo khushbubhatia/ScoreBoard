@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+     <style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Open+Sans:wght@300&family=Wallpoet&display=swap');
+</style>
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <h3>HOME</h3>
+                    <h2 id="homeScore">0</h2>
+                <button id= "btnhome1" onclick= "addonetohome()">+1</button>
+                <button id= "btnhome2" onclick= "addtwotohome()">+2</button>
+                <button id= "btnhome3" onclick= "addthreetohome()">+3</button>
+                
+                
+            </div>
+            <div>
+                <h3>GUEST</h3>
+                 <h2 id="guestScore">0</h2>
+                <button id= "btnguest1" onclick= "addonetoguest()">+1</button>
+                <button id= "btnguest2" onclick= "addtwotoguest()">+2</button>
+                <button id= "btnguest3" onclick= "addthreetoguest()">+3</button>
+                
+            </div>
+           <div>
+              <button id="restartgame" onclick="clearall()">RESTART</button>
+         </div>
+
+        </div>
+  
+        <script src="index.js"></script>
+    </body>
+</html>
